@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
-<h3 align="center">PHP, JavaScript, TypeScript, Go and Rust developer, also interested in other back-end languages. MikroTik and Citrix engineer. Otherwise a fellow gamer.</h3>
+<h3 align="center">PHP, JavaScript, TypeScript, Go and Rust developer, also interested in other back-end languages.<br/>MikroTik and Citrix engineer. Otherwise a fellow gamer.</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ugurpekesen" title="LinkedIn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ugurpekesen" height="20" width="20" /></a>
   <a href="https://instagram.com/xaron.js" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
