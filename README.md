@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I’m Uğur.  <br><br>Currently serving as a Tech Lead at PASİFİK Holding, where I lead engineering teams and architect robust, scalable software solutions.</h1>
+<div align="center"><h2>Hi, I'm Uğur 👋
+<br /><br />
 
-###
+Currently working as a **Tech Lead at PASİFİK Holding**.  <br /><br /></h2>
+I lead engineering teams and architect robust, scalable systems for enterprise-level projects.  
+Passionate about clean architecture, performance, and long-term maintainability.</h1>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
