@@ -95,7 +95,7 @@ Passionate about clean architecture, performance, and long-term maintainability.
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ugurpekesen/en/" target="_blank">
+  <a href="https://www.linkedin.com/in/ugurpekesen/en/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/xaron1337" target="_blank">
