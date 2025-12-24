@@ -109,6 +109,8 @@ Passionate about clean architecture, performance, and long-term maintainability.
   </a>
 </div>
 
+**<div align="center">Feel free to reach out via email: ugur.pekesen@pasifik.com</div>**
+
 ###
 
 <br clear="both">
