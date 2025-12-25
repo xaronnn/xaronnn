@@ -73,8 +73,6 @@ Passionate about clean architecture, performance, and long-term maintainability.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="60" alt="jetbrains logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
