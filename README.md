@@ -1,7 +1,7 @@
 <div align="center"><h2>Hi, I'm Uğur 👋
 <br /><br />
 
-Currently working as a **Tech Lead at PASİFİK Holding**.  <br /><br /></h2>
+Currently working at **PASİFİK Holding**.  <br /><br /></h2>
 I lead engineering teams and architect robust, scalable systems for enterprise-level projects.  
 Passionate about clean architecture, performance, and long-term maintainability.</h1>
 </div>
