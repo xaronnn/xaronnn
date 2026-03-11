@@ -3,7 +3,7 @@
 
 Currently working at **PASİFİK Holding**.  <br /><br /></h2>
 I lead engineering teams and architect robust, scalable systems for enterprise-level projects.  
-Passionate about clean architecture, performance, and long-term maintainability.</h1>
+Passionate about clean architecture, performance, and long-term maintainability at network side</h1>
 </div>
 
 <div align="center">
