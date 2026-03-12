@@ -43,8 +43,6 @@ Passionate about clean architecture, performance, and long-term maintainability 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=symfony" height="60" alt="symfony logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=openstack" height="60" alt="openstack logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -52,8 +50,6 @@ Passionate about clean architecture, performance, and long-term maintainability 
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cassandra" height="60" alt="apachecassandra logo"  />
   <img width="12" />
